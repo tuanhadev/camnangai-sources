@@ -39,6 +39,10 @@ Keep filenames URL-safe (lowercase, hyphens, no spaces).
 | what-is-artificial-intelligence.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/what-is-artificial-intelligence.md` |
 | vibe-coding-explained-tools-and-guides.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/vibe-coding-explained-tools-and-guides.md` |
 | vibe-coding-some-thoughts-and-predictions.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/vibe-coding-some-thoughts-and-predictions.md` |
+| a-beginners-guide-to-large-language-models.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/a-beginners-guide-to-large-language-models.md` |
+| how-large-language-models-learn.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/how-large-language-models-learn.md` |
+| how-large-language-models-work.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/how-large-language-models-work.md` |
+| large-language-models-a-short-introduction.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/large-language-models-a-short-introduction.md` |
 
 ## Verifying a file is agent-fetchable
 
