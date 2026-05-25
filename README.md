@@ -29,6 +29,17 @@ notes/      - (future) Personal drafts, outlines, research notes.
 
 Keep filenames URL-safe (lowercase, hyphens, no spaces).
 
+## Published article links
+
+| Article | Raw URL |
+|---------|---------|
+| artificial-intelligence.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/artificial-intelligence.md` |
+| artificial-intelligence-explained.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/artificial-intelligence-explained.md` |
+| artificial-intelligence-in-perspective.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/artificial-intelligence-in-perspective.md` |
+| what-is-artificial-intelligence.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/what-is-artificial-intelligence.md` |
+| vibe-coding-explained-tools-and-guides.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/vibe-coding-explained-tools-and-guides.md` |
+| vibe-coding-some-thoughts-and-predictions.md | `https://raw.githubusercontent.com/tuanhadev/camnangai-sources/main/articles/vibe-coding-some-thoughts-and-predictions.md` |
+
 ## Verifying a file is agent-fetchable
 
 ```bash
